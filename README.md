@@ -20,7 +20,7 @@ Arabic poetry holds immense cultural significance, but it is facing a decline in
 
 ## Dataset
 Two datasets of Arabic poems were used:
-1. **[Arabic Poetry Dataset (478-2017)](https://www.kaggle.com/datasets/fahd09/arabic-poetry-dataset-478-2017)** from Kaggle.
+1. **[Arabic Poetry Dataset)](https://www.kaggle.com/datasets/fahd09/arabic-poetry-dataset-478-2017)** from Kaggle. **(I've been working on this dataset)**
 2. **Alqasidah.com**: A collection of Arabic poems.
 
 ### Preprocessing
