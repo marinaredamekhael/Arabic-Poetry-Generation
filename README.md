@@ -1,6 +1,6 @@
 # Arabic Poetry Generation: Deep Learning for Poetry Synthesis
 
-This project explores the use of **deep learning** techniques, including **LSTMs** and **Word2Vec**, for **Arabic poetry synthesis**. Text generation, especially poetry synthesis, is a promising yet challenging AI task. This code is an attempt to replicate the results of the paper:  
+This project explores the use of **deep learning** techniques, including **LSTMs** and **Word2Vec**, for **Arabic poetry synthesis**. Text generation, especially poetry synthesis, is a promising yet challenging AI task. This code is an attempt to replicate the results of the paper With added improvements:  
 **Arabic Text Generation: Deep Learning for Poetry Synthesis**  
 [ResearchGate Publication](https://www.researchgate.net/publication/349802531_Arabic_Text_Generation_Deep_Learning_for_Poetry_Synthesis)
 
